@@ -3,7 +3,7 @@
  * 
  * Copyright (c) 2014, AIWSolutions
  * License: GPL2
- * Project Website: http://wiki.aiwsolutions.net/jquery-plugins/
+ * Project Website: http://wiki.aiwsolutions.net/dOQKO
  **/
 
 jQuery.fn.treeListFilter = function(list, timeout) {
